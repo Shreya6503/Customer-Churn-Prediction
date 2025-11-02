@@ -76,9 +76,4 @@ Metrics included:
 ✅ High value customers at risk  
 ✅ Revenue loss segmentation  
 ✅ Actionable business recommendations  
-📌 *To be uploaded soon…*
-
----
-
-## 🗂️ Folder Structure
 
